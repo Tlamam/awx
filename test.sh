@@ -1,6 +1,7 @@
 #/bin/bash
 echo "verze 0.0001"
 echo "ahoj frcim"
+echo hnido
 whoami
 pwd
 ls -la /tmp
