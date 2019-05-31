@@ -6,3 +6,4 @@ whoami
 pwd
 ls -la /tmp
 echo "moc pekne a tahni"
+echo "moc pekne a tahni"
